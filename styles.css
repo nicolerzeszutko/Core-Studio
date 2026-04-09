@@ -331,7 +331,7 @@ h1 {
   border-radius: var(--radius-lg);
   background:
     linear-gradient(180deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.18)),
-    url("https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1600&q=70")
+    url("images/hero.jpg")
       center / cover no-repeat;
   box-shadow: var(--shadow-md);
   border: 1px solid rgba(255, 255, 255, 0.8);
